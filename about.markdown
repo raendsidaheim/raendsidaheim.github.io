@@ -11,7 +11,7 @@ Rubrik Games: Hier ist eine Sammlung von Ideen für die Kids
 Rubrik Links: Sammlung von Links, die in der "Supermamas"-Gruppe gepostet wurden.
 
 
-Impressum:
+Impressum: 
 
 Verantwortlich für den Inhalt Vera Henneberger, Wegscheide 11, 97236 Randeracker, raendisdaheim ÄT gianasista.de
 
