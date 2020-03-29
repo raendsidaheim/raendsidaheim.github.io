@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Steine bemalen"
+title:  "Games: Steine bemalen"
 date:   2020-03-29 10:10:28 +0100
 subtype: games
 categories: games

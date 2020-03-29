@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vincent flattert ins Abentuer - Sonja Kaiblinger"
+title:  "Buch: Vincent flattert ins Abentuer - Sonja Kaiblinger"
 date:   2020-03-23 13:40:28 +0100
 subtype: buecher
 categories: kinderbuch

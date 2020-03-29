@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Naturbingo"
+title:  "Games: Naturbingo"
 date:   2020-03-27 20:54:28 +0100
 subtype: games
 categories: games

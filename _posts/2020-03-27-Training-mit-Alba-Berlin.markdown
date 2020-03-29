@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Training mit Alba Berlin"
+title:  "Games: Training mit Alba Berlin"
 date:   2020-03-27 20:53:28 +0100
 subtype: games
 categories: games

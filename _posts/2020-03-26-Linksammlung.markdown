@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Linksammlung (Kirche online)"
+title:  "Links: Linksammlung (Kirche online)"
 date:   2020-03-26 09:45:28 +0100
 subtype: links
 categories: links

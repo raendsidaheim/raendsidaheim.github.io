@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Love to share, Liebe ist die halbe Miete - Beth o`Leary"
+title:  "Buch: Love to share, Liebe ist die halbe Miete - Beth o`Leary"
 date:   2020-03-25 14:43:28 +0100
 subtype: buecher
 categories: kinderbuch

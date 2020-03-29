@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Schatz Nummer 1"
+title:  "Schätze: Schatz Nummer 1"
 date:   2020-03-25 14:28 +0100
 subtype: schaetze
 categories: schaetze

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Smarties Lauf"
+title:  "Games: Smarties Lauf"
 date:   2020-03-25 14:15:28 +0100
 subtype: games
 categories: games

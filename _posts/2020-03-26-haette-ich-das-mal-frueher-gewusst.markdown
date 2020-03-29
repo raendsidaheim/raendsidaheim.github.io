@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hätte ich das mal früher gewusst - Joyce Ilg, Chris Halb12"
+title:  "Buch: Hätte ich das mal früher gewusst - Joyce Ilg, Chris Halb12"
 date:   2020-03-26 11:05:28 +0100
 subtype: buecher
 categories: kinderbuch
