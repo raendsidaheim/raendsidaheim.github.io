@@ -12,3 +12,9 @@ oder liegen lassen und dran erfreuen! Vielleicht machen ja noch viel mehr mit ‚ù
 Anja P.
 
 ![Steine](/images/Steine.jpg)
+
+Weitere Steine
+
+![Steine](/images/Steine2.jpg)
+
+
