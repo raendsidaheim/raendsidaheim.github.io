@@ -8,6 +8,9 @@ categories: schaetze
 
 Der Weg ist nicht bei Google Maps eingezeichnet!
 
+Den Weg (Trail) findet man, wenn man vom Klavier aus weiter in Richtung Gerbrunn geht.
+Oder die Tiefe Klinge hoch gehen, und nach der 'Treppe ' rechts abbiegen.
+
 Auf dem letzten Bild ist der auffällige Baum, wie er vom Weg aus aussieht.
 
 [Link zu Google Maps](https://maps.google.com/?q=49.769028,9.987426)
