@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Auf dieser Seite wollen wir Randersackerer Eltern digital ein bisschen zusammenrücken.
-
+ 
 Rubrik Bücher: Hier füttert Caro von der Bücherei regelmäßig den Inhalt mit tollen Vorlesetipps
 Rubrik Games: Hier ist eine Sammlung von Ideen für die Kids
 Rubrik Links: Sammlung von Links, die in der "Supermamas"-Gruppe gepostet wurden.
