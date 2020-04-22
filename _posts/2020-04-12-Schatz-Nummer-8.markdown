@@ -6,16 +6,12 @@ subtype: schaetze
 categories: schaetze
 ---
 
-Nhttps://maps.app.goo.gl/iFs85y1tBiAqYXh19
+[Link zu Google Maps](https://maps.app.goo.gl/iFs85y1tBiAqYXh19)
 
 Wir haben heute einen neuen Schatz versteckt
 
 Nadine
 
-![Schatztour](/images/Schatztour_1.jpg)
+![Schatztour](/images/SchatzNummer8_1.jpg)
 
-![Schatztour](/images/Schatztour_2.jpg)
-
-![Schatztour](/images/Schatztour_3.jpg)
-
-![Schatztour](/images/Schatztour_4.jpg)
+![Schatz 8](/images/SchatzNummer8_2.jpg)
