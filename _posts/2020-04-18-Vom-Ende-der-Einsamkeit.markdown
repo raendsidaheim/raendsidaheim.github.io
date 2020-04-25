@@ -1,26 +1,26 @@
 ---
 layout: post
-title:  "Buch: Stories for boys who Dare to be different - Ben Brooks"
+title:  "Buch: Vom Ende der Einsamkeit - Benedict Wells"
 date:   2020-04-22 8:05:28 +0100
 subtype: buecher
 categories: buch
 ---
 
-![Bild - Stories for boys](/images/Stories_for_boys.png)
-(Copyright LOEWE)
+![Bild - Vom Ende der Einsamkeit](/images/Vom_Ende_der_Einsamkeit.png)
+(Copyright Diogenes)
 
-Lesealter: Kinder
-Jungs brauchen Vorbilder heute mehr denn je. In diesem aufwändig
-gestalteten Buch finden sie über 100 ganz persönliche Geschichten von
-Künstlern, Wissenschaftlern, Umweltaktivisten, Fußballern, Politikern und
-Entdeckern von großen und kleinen Helden aus der ganzen Welt und aus
-allen Epochen, die Grenzen überschritten haben und gegen den Strom
-geschwommen sind. Sie alle hatten den Mut, ihren eigenen Weg zu gehen
-und so ihre Träume zu verwirklichen.
+Lesealter: Erwachsene
 
 
-„Als Einschlaflektüre super, denn man kann jeden Abend einen neuen tollen
-Charakter kennenlernen. Mit dabei sind Steven Spielberg, Oscar Wilde,
-Ludwig van Beethoven, Jamie Oliver, Bill Gates....“
+Jules und seine beiden Geschwister wachsen behütet auf, bis ihre Eltern bei
+einem Unfall ums Leben kommen. Als Erwachsene glauben sie, diesen
+Schicksalsschlag überwunden zu haben. Doch dann holt sie die
+Vergangenheit wieder ein. Ein berührender Roman über das Überwinden von
+Verlust und Einsamkeit und über die Frage, was in einem Menschen
+unveränderlich ist. Und vor allem: eine große Liebesgeschichte.
+
+
+„Nicht vom Titelbild abschrecken lassen, das ist so eine wunderschöne
+Geschichte. Achtung Taschentuch bereitlegen.“
 
 Eure Caro
