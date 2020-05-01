@@ -6,7 +6,7 @@ subtype: schaetze
 categories: schaetze
 ---
 
-[Link zu Google Maps](https://maps.app.goo.gl/iFs85y1tBiAqYXh19)
+[Link zu Google Maps](https://maps.google.com/?q=49.761974,9.999243)
 
 Wir haben einen neuen Schatz versteckt 
 Viel Spaß beim suchen, finden und tauschen ❤️
